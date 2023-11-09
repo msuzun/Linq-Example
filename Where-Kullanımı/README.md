@@ -1,0 +1,2 @@
+# Linq-Where-Kullanımı
+
