@@ -1,0 +1,5 @@
+# Linq-IQUERYABLE-IENUMARABLE-Farkı
+
+IEnumerable, generic olamayan bir koleksiyon üzerinde iterasyon(liste içerisinde dönmemizi) yapmamızı sağlar. Aslında daha çok memory(bellek) üzerinde muhafıza edilen veriler üzerinden gerekli sorgulama işlemleri yapar. .Net Framework altında System.Collection isim uzayından türemektedir. IEnumerable sınıfı içerisinde sadece GetEnumerator metodu bulundurmaktadır. GetEnumerator metodu bir koleksiyon dizi içerinden iterasyon yapmamızı sağlayarak  geriye IEnumerator tipinde bir sınıf döndürmektedir. Aslında bir çok yerde kullandığımız foreach döngüsü IEnumrable sınıfı üzerinden GetEnumerator işlenerek çalışmaktadır.
+
+IQueryable, belli bir uzak veri kaynağından(web service,database…) verileri sorgulamak için işlevsellik sağlar. .Net Framework altında System.Linq isim uzayından türemektedir. IQueryable arayüzü IEnumerable arayüzünü implement etmektedir. Demek ki IEnumerable ait tüm özelliklerine sahip olabilecek.
