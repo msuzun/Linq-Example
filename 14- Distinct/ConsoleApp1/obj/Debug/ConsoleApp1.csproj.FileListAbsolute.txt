@@ -1,0 +1,7 @@
+C:\Users\MSUZUN\Documents\CanBoz-Linq\14- Distinct\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\MSUZUN\Documents\CanBoz-Linq\14- Distinct\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\MSUZUN\Documents\CanBoz-Linq\14- Distinct\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\MSUZUN\Documents\CanBoz-Linq\14- Distinct\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\MSUZUN\Documents\CanBoz-Linq\14- Distinct\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\MSUZUN\Documents\CanBoz-Linq\14- Distinct\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\MSUZUN\Documents\CanBoz-Linq\14- Distinct\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
