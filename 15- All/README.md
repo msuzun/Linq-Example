@@ -1,0 +1,2 @@
+# Linq-All-Kullanımı
+Belirtilen koşulu koleksiyonda bulunan tüm elemanların sağlaması gerekmektedir. Yani All metodu ile koşul belirttiğimiz zaman, belirtilen koşul koleksiyon içerisinde bulunan tüm kayıtlar tarafından mutlaka sağlanması gerekmektedir.
