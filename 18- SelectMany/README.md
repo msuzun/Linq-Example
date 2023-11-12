@@ -1,0 +1,2 @@
+# Linq-SelectMany-Kullanımı
+Bir LINQ sorgusunda 2 farklı veri kaynağından seçilen kayıtlar (satırlar) ortak bir alana göre birleştirilerek tek bir kayıt elde edilebilir. Bunun için from cümleciği yardımıyla seçilecek veri kaynakları ayrı ayrı bildirilebilir. Ayrıca where cümleciğinde bu veri kaynaklarındaki kayıtların birleştirilmesi için kullanılacak ortak değer belirtilerek, uygun kayıtlardan yeni kayıtlar oluşturularak seçilir. Bu işlem LINQ Yöntem Sözdizimi (LINQ Method Syntax)'nde SelectMany  yöntemi aracılığıyla yapılır ve SQL Join cümleciğine karşılık gelir.
