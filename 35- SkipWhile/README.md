@@ -1,0 +1,1 @@
+# Linq-SkipWhile-Kullanımı
